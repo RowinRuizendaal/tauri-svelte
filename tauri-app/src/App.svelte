@@ -18,7 +18,7 @@
   </div>
 
   <p>
-    Click on the Tauri, Vite, and Svelte logos to learn more about each framework poep.
+    Click on the Tauri, Vite, and Svelte logos to learn more about each framework.
   </p>
 
   <div class="row">
